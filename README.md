@@ -13,5 +13,18 @@ No obstante algunos cambios personalizados se han agregado.
 
 La diferencia es que en el tutorial se usa SQLite, en este caso la conexión se hará bajo  MySQL.
 
+##Lenguajes de programación utilizados
+Python y Javascript.
+Dialectos: Dart 
+Bases de datos: Puede ser MySQL o SQLAlchemy
+Framework Bakend: Flask (python)
+Framework Frontend: Angular (Javascript)
+
+##Contribuciones
+Cualquier tipo de contribución es bien recibida.
+#Licencia
+GNU APGLv3
+Más detalles ver en 
+
 
 
