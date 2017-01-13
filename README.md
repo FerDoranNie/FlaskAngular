@@ -1,8 +1,7 @@
 #Flask Angular APP
 ##Descripción
 Este repositorio contiene una aproximación de una aplicación básica en Flask.
-Siguiendo este pequeño tutorial.
-https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
+Siguiendo este pequeño [tutorial](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 
 Se agregará la integración con Angular 1  y si es posible en un futuro 
 el frontend será Angular 2 con Dart en vez de TypeScript.
@@ -31,7 +30,7 @@ Cualquier tipo de contribución es bien recibida.
 
 GNU APGLv3
 
-* Más detalles ver en: https://github.com/FerDoranNie/FlaskAngular/blob/master/LICENSE
+* Más detalles ver aqui: [licencia](https://github.com/FerDoranNie/FlaskAngular/blob/master/LICENSE)
 
 
 
