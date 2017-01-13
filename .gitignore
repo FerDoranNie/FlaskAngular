@@ -1,4 +1,6 @@
 #Distribuciones y paquetes
 venv/
 env/
+.py.swp
+..gitignore.swp
 
