@@ -20,10 +20,16 @@ Agregando la conexión a base de datos
 """
 mysql = MySQL()
 app.config['MYSQL_DATABASE_USER']='root'
-app.config['MYSQL-DATABASE-PASSWORD']='base10Data'
+app.config['MYSQL_DATABASE_PASSWORD']='base10Data'
 app.config['MYSQL_DATABASE_DB']= 'flaskBase'
+app.config['MYSQL_DATABASE_HOST']='localhost'
 mysql.init_app(app)
+con = mysql.connect()
+cursor  = conn.cursor()
+print (conn)
 
 
 if __name__ == '__main__':
     app.run()
+
+

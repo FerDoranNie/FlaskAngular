@@ -1,0 +1,15 @@
+###configuracion mysql
+CREATE DATABASE flaskBase;
+
+CREATE TABLE `flaskBase`.`results`(
+	`id` BIGINT AUTO_INCREMENT,
+	`url` TEXT NULL,
+	`result_all` TEXT NULL,
+	`result_NoStopWords` TEXT NULL,
+	PRIMARY KEY (`id`));
+
+
+
+
+
+
