@@ -11,7 +11,7 @@ Si es posible, se agregarán gráficos al final con el bello D3.
 
 No obstante algunos cambios personalizados se han agregado.
 
-La diferencia es que en el tutorial se usa SQLite, en este caso la conexión se hará bajo  mysql.
+La diferencia es que en el tutorial se usa SQLite, en este caso la conexión se hará bajo  MySQL.
 
 
 
